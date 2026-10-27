@@ -1,0 +1,686 @@
+{
+  "uitleg": "Redactionele stand van de app Wereldspanning. Verhoog 'versie' bij elke wijziging. risico = 0..100, gewicht = belang voor de wereld (0.4..1.6), trend = OMHOOG/GELIJK/OMLAAG, voorspelbaarheid = 1..5, relaties: 2 bondgenoot .. -2 vijandig (9 = zichzelf), oordeel = BEVESTIGD/DEELS/ONBEVESTIGD/ONWAARSCHIJNLIJK/ONWAAR, ernst = 1..3.",
+  "versie": 1,
+  "peildatum": "27 oktober 2026",
+  "bulletinSeconden": 85,
+  "bulletinToelichting": "Op 27 januari 2026 zette het Bulletin of the Atomic Scientists de Doomsday Clock op 85 seconden voor middernacht (was 89). Dat is de dichtste stand ooit. Genoemde redenen: kernwapens, klimaat, biologische dreigingen, AI en desinformatie. De volgende stand wordt eind januari 2027 bekendgemaakt.",
+  "brandhaarden": [
+    {
+      "id": "iran",
+      "naam": "Iran – VS & Israël",
+      "regio": "Midden-Oosten",
+      "risico": 84,
+      "gewicht": 1.6,
+      "trend": "OMHOOG",
+      "samenvatting": "Op 28 februari 2026 begonnen de VS en Israël gezamenlijke luchtaanvallen op Iran (de ‘Iran-oorlog’). Opperleider Ali Khamenei kwam om; zijn zoon Mojtaba Khamenei volgde hem op 8 maart op. In april kwam een wapenstilstand, maar Iran spreekt van ‘geen oorlog en geen vrede’. Volgens Israëlische bronnen liggen er plannen klaar om de aanvallen ná de Amerikaanse midterms (3 november) te hervatten; het Witte Huis zegt vóór de midterms niet aan te vallen. De VS eisen forse inperking van uraniumverrijking, Iran wil eerst praten over veiligheid en de olieroute.",
+      "spelers": [
+        "Trump",
+        "Netanyahu",
+        "Mojtaba Khamenei",
+        "Hegseth",
+        "Golfstaten"
+      ],
+      "aandachtspunten": [
+        "Eerste week na 3 november: hervatten de VS/Israël de aanvallen?",
+        "Kernprogramma: krijgt het IAEA weer toegang tot Natanz, Fordow en Isfahan?",
+        "Signalen van een Iraanse kernproef (voorspellingsmarkt ±4% vóór 2027)",
+        "Bemiddeling via Saudi-Arabië, Turkije en Pakistan"
+      ],
+      "nieuwsZoekterm": "Iran oorlog OR Iran aanval OR Iran wapenstilstand"
+    },
+    {
+      "id": "hormuz",
+      "naam": "Straat van Hormuz & olie",
+      "regio": "Perzische Golf",
+      "risico": 82,
+      "gewicht": 1.4,
+      "trend": "OMHOOG",
+      "samenvatting": "De belangrijkste olieroute ter wereld is zwaar verstoord: het verkeer ligt rond 60% van normaal. De Revolutionaire Garde valt tankers aan, schepen lopen op mijnen en Amerikaanse strijdkrachten troffen tankers die aan de Garde gelinkt zijn. Iran dreigt met een ‘uitsluitingszone’ waar schepen zonder Iraanse toestemming worden tegengehouden; de VS houden een zeeblokkade aan. Brent-olie staat rond de $110.",
+      "spelers": [
+        "Revolutionaire Garde",
+        "US Navy",
+        "Golfstaten",
+        "Tankerrederijen"
+      ],
+      "aandachtspunten": [
+        "Brent boven $120 = nieuwe escalatie of blokkade",
+        "Afkondiging van de Iraanse uitsluitingszone",
+        "Verzekeringspremies voor tankers en het aantal doorvaarten per dag",
+        "Gasprijs Europa (TTF) – direct voelbaar in Nederland"
+      ],
+      "nieuwsZoekterm": "Straat van Hormuz OR tanker Golf"
+    },
+    {
+      "id": "oekraine",
+      "naam": "Rusland – Oekraïne",
+      "regio": "Oost-Europa",
+      "risico": 76,
+      "gewicht": 1.6,
+      "trend": "GELIJK",
+      "samenvatting": "De oorlog duurt voort met zware Russische raket- en droneaanvallen op Kyiv en het energienet (soms honderdduizenden zonder stroom). Poetin stemde ‘in principe’ in met nieuwe trilaterale gesprekken met de VS en Oekraïne, gepland voor (medio) november. Rusland eist gebied dat het niet volledig bezit; Kyiv wil ijzersterke veiligheidsgaranties. Er is een lokaal staakt-het-vuren voor hulp in Cherson (missie onder leiding van Melania Trump). Voorspellingsmarkten geven een staakt-het-vuren vóór 31 oktober minder dan 2% kans.",
+      "spelers": [
+        "Poetin",
+        "Zelensky",
+        "Trump",
+        "Witkoff",
+        "EU"
+      ],
+      "aandachtspunten": [
+        "Gaan de trilaterale gesprekken in november echt door?",
+        "Aanvallen op energie-infrastructuur nu de winter begint",
+        "Westerse wapenleveranties en het gebruik van bevroren Russische tegoeden",
+        "Gebiedseisen: Donbas, Zaporizja, Cherson"
+      ],
+      "nieuwsZoekterm": "Oekraïne Rusland oorlog OR vredesoverleg"
+    },
+    {
+      "id": "navo",
+      "naam": "Rusland – NAVO / Europa",
+      "regio": "Oostzee & oostflank",
+      "risico": 58,
+      "gewicht": 1.5,
+      "trend": "OMHOOG",
+      "samenvatting": "Rusland voert volgens de Deense inlichtingendienst een hybride oorlog tegen de NAVO: drones boven vliegvelden en kazernes, sabotage van kabels in de Oostzee, cyberaanvallen. De NAVO reageerde met Baltic Sentry en Eastern Sentry; de Oostzeelanden zetten een gezamenlijke anti-dronemacht op. Litouwen waarschuwt voor ‘false flag’-aanvallen met buitgemaakte Oekraïense drones. Letse generaals zien een risicovenster tot eind 2028.",
+      "spelers": [
+        "Poetin",
+        "NAVO",
+        "Baltische staten",
+        "Polen",
+        "Duitsland"
+      ],
+      "aandachtspunten": [
+        "Drone-incidenten boven NAVO-grondgebied (Polen, Baltische staten, Denemarken)",
+        "Schade aan onderzeese kabels en pijpleidingen",
+        "Artikel 4/5-consultaties binnen de NAVO",
+        "Russische troepenopbouw bij Narva, Suwałki-corridor en Kaliningrad"
+      ],
+      "nieuwsZoekterm": "NAVO Rusland drones OR sabotage Oostzee"
+    },
+    {
+      "id": "jemen",
+      "naam": "Houthi’s – Rode Zee & Saudi-Arabië",
+      "regio": "Jemen",
+      "risico": 72,
+      "gewicht": 1.1,
+      "trend": "OMHOOG",
+      "samenvatting": "De Houthi’s riepen in juli 2026 een volledige zeeblokkade tegen Saudi-Arabië uit en vallen schepen aan in de Rode Zee, Bab al-Mandab en de Golf van Aden. Saudi-olie-installaties zijn doelwit. Begin oktober startte de Jemenitische regering ‘Operatie Dageraad van Jemen’ om Sanaa te heroveren, en het defensiepact van Mekka (Saudi-Arabië, Pakistan, Turkije) werd voor het eerst ingeroepen. De Saudische coalitie bombardeert Houthi-raketlocaties; Egypte mengt zich in de strijd.",
+      "spelers": [
+        "Abdul-Malik al-Houthi",
+        "Mohammed bin Salman",
+        "Iran",
+        "Egypte",
+        "Pakistan",
+        "Turkije"
+      ],
+      "aandachtspunten": [
+        "Nucleaire macht Pakistan via het pact van Mekka bij een Golfoorlog betrokken",
+        "Aanvallen op Saudische olie (Abqaiq, Ras Tanura) – tweede oliepijler naast Hormuz",
+        "Doorvaart Suezkanaal en Bab al-Mandab",
+        "Hervatten Houthi-raketten op Israël"
+      ],
+      "nieuwsZoekterm": "Houthi Rode Zee OR Jemen Saudi"
+    },
+    {
+      "id": "gaza",
+      "naam": "Israël – Gaza & Palestina",
+      "regio": "Midden-Oosten",
+      "risico": 64,
+      "gewicht": 1,
+      "trend": "GELIJK",
+      "samenvatting": "Het ‘staakt-het-vuren’ van oktober 2025 bestaat volgens ruim honderd hulporganisaties ‘alleen in naam’: tot 12 oktober 2026 vielen er sinds de bestandsdatum volgens het ministerie van Volksgezondheid in Gaza bijna 1.500 doden. Israël houdt zo’n 50–54% van Gaza bezet (achter de ‘gele lijn’). Trumps Board of Peace kondigde in juli een ontwapeningsakkoord aan, maar Hamas koppelt ontwapening aan een Israëlische stop. Het technocratische bestuurscomité zit nog in Caïro; er ligt een plan van $2,45 miljard voor wederopbouw.",
+      "spelers": [
+        "Netanyahu",
+        "Hamas",
+        "Board of Peace (Trump)",
+        "Egypte",
+        "Qatar",
+        "Palestijnse Autoriteit"
+      ],
+      "aandachtspunten": [
+        "Nieuwe Israëlische regering na de verkiezing van 27 oktober",
+        "Ontwapening Hamas en terugtrekking achter de gele lijn",
+        "Humanitaire toegang en hongersnoodwaarschuwingen",
+        "Geweld en annexatieplannen op de Westelijke Jordaanoever"
+      ],
+      "nieuwsZoekterm": "Gaza OR Westelijke Jordaanoever"
+    },
+    {
+      "id": "libanon",
+      "naam": "Israël – Libanon / Hezbollah",
+      "regio": "Midden-Oosten",
+      "risico": 46,
+      "gewicht": 0.7,
+      "trend": "GELIJK",
+      "samenvatting": "Hezbollah viel op 2 maart 2026 Israël aan tijdens de Iran-oorlog; op 17 april ging een tweede wapenstilstand in. Daarna kwam een kaderakkoord Beiroet–Jeruzalem; honderdduizenden ontheemden keerden terug. Israël blijft in Zuid-Libanon ‘zolang Hezbollah er is’ en voert nog gerichte aanvallen uit.",
+      "spelers": [
+        "Hezbollah",
+        "Netanyahu",
+        "Libanese regering",
+        "Iran"
+      ],
+      "aandachtspunten": [
+        "Hezbollah herbewapend via Syrië?",
+        "Israëlische aanvallen op Beiroet",
+        "Reactie Hezbollah bij hervatting Iran-oorlog"
+      ],
+      "nieuwsZoekterm": "Hezbollah Libanon Israël"
+    },
+    {
+      "id": "taiwan",
+      "naam": "China – Taiwan & Zuid-Chinese Zee",
+      "regio": "Oost-Azië",
+      "risico": 54,
+      "gewicht": 1.5,
+      "trend": "OMHOOG",
+      "samenvatting": "Geen gevechten, wel toenemende ‘grijze-zone’-druk: in oktober al 166 Chinese militaire vliegtuigen en 309 schepen rond Taiwan, live-vuuroefeningen en een gecoördineerde actie van 16 Chinese kustwacht-, onderzoeks- en vissersschepen (mogelijk oefening voor een blokkade). Spanningen rond de Pratas-eilanden. Het vliegdekschip Liaoning oefent ‘doorbraken’ door de eerste eilandenketen. Voorspellingsmarkten: ±2% kans op een invasie in 2026.",
+      "spelers": [
+        "Xi Jinping",
+        "Lai Ching-te",
+        "Trump",
+        "Japan",
+        "Filipijnen"
+      ],
+      "aandachtspunten": [
+        "Blokkade-oefeningen of quarantaine van Taiwanese havens",
+        "Incidenten met de Filipijnen in de Zuid-Chinese Zee",
+        "Exportbeperkingen chips en zeldzame aardmetalen",
+        "Amerikaans-Japanse antischeepsraketten op Yonaguni (Keen Sword)"
+      ],
+      "nieuwsZoekterm": "Taiwan China militair"
+    },
+    {
+      "id": "korea",
+      "naam": "Noord-Korea",
+      "regio": "Oost-Azië",
+      "risico": 44,
+      "gewicht": 0.8,
+      "trend": "OMHOOG",
+      "samenvatting": "Een maandlange reeks raketproeven: op 3 oktober een middellangeafstandsraket met ‘AI-gestuurde manoeuvres’, op 12 oktober meerdere ballistische raketten (één vloog >900 km) – de 16e lanceerronde van 2026. Mogelijk een antwoord op de eerste Zuid-Koreaanse hypersone test. Pyongyang levert ook wapens en troepen aan Rusland.",
+      "spelers": [
+        "Kim Jong-un",
+        "Lee Jae-myung",
+        "Poetin",
+        "Japan"
+      ],
+      "aandachtspunten": [
+        "Kernproef (de zevende)",
+        "ICBM-test richting Stille Oceaan",
+        "Russische technologie voor Noord-Korea"
+      ],
+      "nieuwsZoekterm": "Noord-Korea raket"
+    },
+    {
+      "id": "vs",
+      "naam": "VS – binnenland & midterms",
+      "regio": "Noord-Amerika",
+      "risico": 50,
+      "gewicht": 1,
+      "trend": "OMHOOG",
+      "samenvatting": "Op 3 november zijn de tussentijdse verkiezingen. Democraten staan gemiddeld ±9 punten voor in de peilingen; prognoses geven hun 79–93% kans op het Huis en 57–65% op de Senaat. Trumps netto-goedkeuring zit rond −23, bij zijn laagste punt. Een verlies kan de buitenlandse politiek veranderen – en volgens bronnen liggen militaire plannen tegen Iran klaar voor ná de verkiezing. Risico’s: polarisatie, desinformatie en betwiste uitslagen.",
+      "spelers": [
+        "Trump",
+        "Democraten",
+        "Republikeinen",
+        "Hooggerechtshof"
+      ],
+      "aandachtspunten": [
+        "Uitslag Huis en Senaat (3 november)",
+        "Betwisting van uitslagen, politiek geweld",
+        "Federal Reserve: rentebesluit 28 oktober, rente 10-jaar rond 5%",
+        "Tarieven en handelsoorlogen (Canada, EU, China)"
+      ],
+      "nieuwsZoekterm": "midterms Trump verkiezingen"
+    },
+    {
+      "id": "canada",
+      "naam": "VS – Canada (handel)",
+      "regio": "Noord-Amerika",
+      "risico": 30,
+      "gewicht": 0.4,
+      "trend": "GELIJK",
+      "samenvatting": "De handelsruzie escaleerde in augustus: Carney liep weg van een ‘slechte deal’ en kondigde vergeldingstarieven aan na Amerikaanse dreigingen met 50% tarieven. Trump blijft Canada ‘de 51e staat’ noemen; veel Canadezen boycotten reizen naar de VS. Aluminium werd in de VS 58% duurder.",
+      "spelers": [
+        "Carney",
+        "Trump"
+      ],
+      "aandachtspunten": [
+        "Nieuwe tariefrondes",
+        "Herziening van het USMCA-verdrag",
+        "Energie- en dieseltekorten in Canada"
+      ],
+      "nieuwsZoekterm": "Canada Carney Trump tarieven"
+    },
+    {
+      "id": "venezuela",
+      "naam": "Venezuela & Latijns-Amerika",
+      "regio": "Zuid-Amerika",
+      "risico": 30,
+      "gewicht": 0.4,
+      "trend": "OMLAAG",
+      "samenvatting": "In januari 2026 voerden de VS aanvallen uit op Caracas en werd Nicolás Maduro gevangengenomen. Waarnemend president Delcy Rodríguez herstelde in maart de diplomatieke banden; de Amerikaanse ambassade is heropend en er is een oliedeal. De situatie is gekalmeerd, maar instabiel.",
+      "spelers": [
+        "Delcy Rodríguez",
+        "Trump",
+        "Maduro (gevangen)"
+      ],
+      "aandachtspunten": [
+        "Verkiezingen in Venezuela",
+        "Olie-export naar de VS",
+        "Amerikaanse militaire acties in de regio (drugsboten, Mexico)"
+      ],
+      "nieuwsZoekterm": "Venezuela"
+    }
+  ],
+  "vasteVlaggen": [
+    {
+      "titel": "Hormuz op ±60% capaciteit",
+      "uitleg": "Aanvallen op tankers en mijnen; Iran dreigt met een uitsluitingszone.",
+      "ernst": 3
+    },
+    {
+      "titel": "Pact van Mekka ingeroepen",
+      "uitleg": "Saudi-Arabië, Pakistan (kernmacht) en Turkije samen tegen de Houthi’s.",
+      "ernst": 2
+    }
+  ],
+  "spelers": [
+    {
+      "naam": "Donald Trump",
+      "rol": "President van de VS",
+      "vlag": "🇺🇸",
+      "belangen": "‘America First’: deals sluiten, tarieven als drukmiddel, olieprijs en beurs hoog houden, de midterms winnen. Wil vrede in Oekraïne via een deal en heeft een harde lijn tegen Iran.",
+      "koers": "Zei geen aanval op Iran vóór de midterms; noemde het Iran-bestand ‘tijdverspilling’. Duwt op trilaterale Oekraïne-gesprekken.",
+      "voorspelbaarheid": 1
+    },
+    {
+      "naam": "Vladimir Poetin",
+      "rol": "President van Rusland",
+      "vlag": "🇷🇺",
+      "belangen": "Oekraïne in de Russische invloedssfeer houden, het veroverde gebied behouden, de NAVO verdelen, sancties verlichten.",
+      "koers": "‘In principe’ bereid tot nieuwe gesprekken in november, terwijl de aanvallen op Kyiv doorgaan.",
+      "voorspelbaarheid": 3
+    },
+    {
+      "naam": "Xi Jinping",
+      "rol": "President van China",
+      "vlag": "🇨🇳",
+      "belangen": "Hereniging met Taiwan, economische groei, toegang tot olie (China koopt veel Iraanse olie), de VS overtreffen in technologie.",
+      "koers": "Voert de grijze-zonedruk op Taiwan op en speelt intussen de rustige grootmacht.",
+      "voorspelbaarheid": 4
+    },
+    {
+      "naam": "Benjamin Netanyahu",
+      "rol": "Premier van Israël (Likud)",
+      "vlag": "🇮🇱",
+      "belangen": "Iran als dreiging uitschakelen, Hamas en Hezbollah verslaan, aan de macht blijven (ook vanwege zijn strafzaken).",
+      "koers": "Verkiezing 27 oktober: volgens exitpolls haalt zijn blok ±50 zetels – een fors verlies.",
+      "voorspelbaarheid": 3
+    },
+    {
+      "naam": "Gadi Eisenkot",
+      "rol": "Oppositieleider Israël",
+      "vlag": "🇮🇱",
+      "belangen": "Oud-legerchef; belooft herstel van de rechtsstaat, terugkeer van gijzelaars en een ander Gaza-beleid, maar blijft hard op Iran.",
+      "koers": "Zijn blok staat volgens exitpolls op ±52 zetels: kleine voorsprong, maar geen 61.",
+      "voorspelbaarheid": 3
+    },
+    {
+      "naam": "Mojtaba Khamenei",
+      "rol": "Opperleider van Iran (sinds 8 maart 2026)",
+      "vlag": "🇮🇷",
+      "belangen": "Overleven van het regime, het nucleaire programma behouden, het einde van de Amerikaanse blokkade, wraak voor zijn vader.",
+      "koers": "Spreekt van ‘geen oorlog, geen vrede’ en wil een einde op Iraanse voorwaarden; Iran rekt de gesprekken.",
+      "voorspelbaarheid": 2
+    },
+    {
+      "naam": "Abdul-Malik al-Houthi",
+      "rol": "Leider Houthi’s (Jemen)",
+      "vlag": "🇾🇪",
+      "belangen": "Macht in Jemen behouden, Saudi-Arabië en Israël onder druk zetten, de ‘as van verzet’ met Iran.",
+      "koers": "Blokkade tegen Saudi-Arabië; staat onder druk door het regeringsoffensief op Sanaa.",
+      "voorspelbaarheid": 2
+    },
+    {
+      "naam": "Volodymyr Zelensky",
+      "rol": "President van Oekraïne",
+      "vlag": "🇺🇦",
+      "belangen": "Overleven van Oekraïne, veiligheidsgaranties, westerse steun, geen gebied weggeven.",
+      "koers": "Zegt dat de gesprekken met de VS en Rusland in november hervatten.",
+      "voorspelbaarheid": 4
+    },
+    {
+      "naam": "Péter Magyar",
+      "rol": "Premier van Hongarije (Tisza)",
+      "vlag": "🇭🇺",
+      "belangen": "Versloeg Orbán in april 2026 met een tweederdemeerderheid. Corruptie aanpakken, EU-geld terughalen, pro-Oekraïne, maar streng op migratie.",
+      "koers": "Noemt Rusland een bedreiging voor de nationale veiligheid; wil Orbán-ministers vervolgen.",
+      "voorspelbaarheid": 4
+    },
+    {
+      "naam": "Viktor Orbán",
+      "rol": "Oppositieleider Hongarije (Fidesz)",
+      "vlag": "🇭🇺",
+      "belangen": "Na 16 jaar als premier nu in de oppositie. Pro-Trump, pro-Poetin-lijn, anti-EU-centralisatie.",
+      "koers": "Zijn invloed binnen de EU (veto’s) is weggevallen – dat maakt EU-besluiten over Oekraïne makkelijker.",
+      "voorspelbaarheid": 4
+    },
+    {
+      "naam": "Mohammed bin Salman",
+      "rol": "Kroonprins Saudi-Arabië",
+      "vlag": "🇸🇦",
+      "belangen": "Olie-inkomsten, veiligheid tegen Iran en de Houthi’s, Vision 2030, normalisering met Israël op zijn voorwaarden.",
+      "koers": "Riep het pact van Mekka in; de coalitie bombardeert Houthi-doelen.",
+      "voorspelbaarheid": 3
+    },
+    {
+      "naam": "Mark Carney",
+      "rol": "Premier van Canada",
+      "vlag": "🇨🇦",
+      "belangen": "Canadese soevereiniteit, minder afhankelijk worden van de VS, handel met de EU en Azië.",
+      "koers": "Vergeldingstarieven tegen de VS; wil alleen praten bij een ‘echte partnerschap’-houding.",
+      "voorspelbaarheid": 5
+    },
+    {
+      "naam": "Rob Jetten",
+      "rol": "Premier van Nederland (minderheidskabinet)",
+      "vlag": "🇳🇱",
+      "belangen": "Woningbouw, migratiewetgeving, stikstofvergunningen weer op gang, defensie naar de NAVO-norm, steun voor Oekraïne.",
+      "koers": "Een minderheidskabinet dat per dossier steun moet zoeken; box 3 en de begroting liggen onder vuur.",
+      "voorspelbaarheid": 4
+    },
+    {
+      "naam": "Ursula von der Leyen",
+      "rol": "Voorzitter Europese Commissie",
+      "vlag": "🇪🇺",
+      "belangen": "Europese defensie (herbewapening), steun aan Oekraïne, handelsakkoorden, de klimaatdoelen.",
+      "koers": "Moet balanceren tussen Trumps tarieven en Europese eenheid.",
+      "voorspelbaarheid": 4
+    },
+    {
+      "naam": "Kim Jong-un",
+      "rol": "Leider Noord-Korea",
+      "vlag": "🇰🇵",
+      "belangen": "Overleven van het regime, kernwapens als garantie, technologie en geld van Rusland.",
+      "koers": "Recordreeks raketproeven in 2026.",
+      "voorspelbaarheid": 2
+    },
+    {
+      "naam": "Lai Ching-te",
+      "rol": "President van Taiwan",
+      "vlag": "🇹🇼",
+      "belangen": "De status quo en de democratie behouden, de defensie versterken, Amerikaanse steun.",
+      "koers": "Verhoogt de defensie-uitgaven ‘om oorlog af te schrikken’.",
+      "voorspelbaarheid": 4
+    },
+    {
+      "naam": "Recep Tayyip Erdoğan",
+      "rol": "President van Turkije",
+      "vlag": "🇹🇷",
+      "belangen": "Regionale macht, bemiddelaar tussen Oost en West, NAVO-lid met eigen koers. Lid van het pact van Mekka.",
+      "koers": "Bemiddelt mee in de Iran-gesprekken; gastland van COP31.",
+      "voorspelbaarheid": 2
+    }
+  ],
+  "relatieLanden": ["VS", "RU", "CN", "IL", "IR", "EU", "UA", "SA"],
+  "relaties": [
+    [9, 0, -1, 2, -2, 0, 1, 1],
+    [0, 9, 1, 0, 1, -2, -2, 0],
+    [-1, 1, 9, 0, 1, 0, 0, 1],
+    [2, 0, 0, 9, -2, 0, 1, 0],
+    [-2, 1, 1, -2, 9, -1, -1, -2],
+    [0, -2, 0, 0, -1, 9, 2, 1],
+    [1, -2, 0, 1, -1, 2, 9, 0],
+    [1, 0, 1, 0, -2, 1, 0, 9]
+  ],
+  "agenda": [
+    {
+      "datum": "27 okt 2026",
+      "wat": "Knesset-verkiezingen Israël",
+      "waarom": "Exitpolls: geen meerderheid. Netanyahu-blok ±50 zetels (was 68), Eisenkot-blok ±52. Likud blijft de grootste partij; Arabische partijen behalen recordaantallen. Er volgen wekenlange coalitieonderhandelingen (61 van de 120 zetels nodig).",
+      "kritiek": true
+    },
+    {
+      "datum": "28 okt 2026",
+      "wat": "Rentebesluit Federal Reserve",
+      "waarom": "Met de olie rond $110 en de 10-jaarsrente rond 5% is inflatie het grootste risico voor de beurzen.",
+      "kritiek": false
+    },
+    {
+      "datum": "3 nov 2026",
+      "wat": "Midterms VS",
+      "waarom": "Het Huis, een derde van de Senaat en gouverneurs. Een Democratische winst beperkt Trump binnenlands. Volgens bronnen kunnen de aanvallen op Iran daarna hervatten.",
+      "kritiek": true
+    },
+    {
+      "datum": "begin/medio nov 2026",
+      "wat": "Trilaterale gesprekken VS–Oekraïne–Rusland",
+      "waarom": "De eerste echte onderhandelingsronde sinds maanden. De standpunten liggen nog ver uit elkaar.",
+      "kritiek": true
+    },
+    {
+      "datum": "nov 2026",
+      "wat": "Klimaattop COP31 (Antalya, Turkije)",
+      "waarom": "Nieuwe nationale klimaatplannen; de fossiele brandstoffen onder druk door de oliecrisis.",
+      "kritiek": false
+    },
+    {
+      "datum": "dec 2026",
+      "wat": "G20-top in de VS",
+      "waarom": "Trump is gastheer; de handel, Oekraïne en Iran staan op de agenda.",
+      "kritiek": false
+    },
+    {
+      "datum": "eind dec 2026",
+      "wat": "Polymarket-deadline: invasie Taiwan in 2026",
+      "waarom": "De markt geeft ±2%. Let op Chinese oefeningen rond de jaarwisseling.",
+      "kritiek": false
+    },
+    {
+      "datum": "jan 2027",
+      "wat": "Nieuwe stand Doomsday Clock",
+      "waarom": "Het Bulletin of the Atomic Scientists maakt bekend of de klok verder richting middernacht gaat (nu 85 seconden).",
+      "kritiek": false
+    }
+  ],
+  "tijdlijn": [
+    {
+      "maand": "jan",
+      "score": 58,
+      "gebeurtenis": "VS slaan toe in Venezuela; Doomsday Clock op 85 s"
+    },
+    {
+      "maand": "feb",
+      "score": 76,
+      "gebeurtenis": "28 feb: VS en Israël vallen Iran aan"
+    },
+    {
+      "maand": "mrt",
+      "score": 82,
+      "gebeurtenis": "Khamenei gedood; Hezbollah en de Houthi’s doen mee"
+    },
+    {
+      "maand": "apr",
+      "score": 70,
+      "gebeurtenis": "Wapenstilstand met Iran en met Libanon; Orbán verliest"
+    },
+    {
+      "maand": "mei",
+      "score": 66,
+      "gebeurtenis": "Onrustige bestanden, Hormuz blijft verstoord"
+    },
+    {
+      "maand": "jun",
+      "score": 66,
+      "gebeurtenis": "Houthi’s: volledige ban op Israëlische schepen"
+    },
+    {
+      "maand": "jul",
+      "score": 69,
+      "gebeurtenis": "Houthi-blokkade tegen Saudi-Arabië"
+    },
+    {
+      "maand": "aug",
+      "score": 67,
+      "gebeurtenis": "Handelsoorlog VS–Canada escaleert"
+    },
+    {
+      "maand": "sep",
+      "score": 68,
+      "gebeurtenis": "Raketreeks Noord-Korea, olie loopt op"
+    },
+    {
+      "maand": "okt",
+      "score": 71,
+      "gebeurtenis": "Tankers aangevallen; Israël stemt; plannen tegen Iran"
+    }
+  ],
+  "staatsschulden": [
+    {
+      "land": "Japan",
+      "vlag": "🇯🇵",
+      "procentBbp": 235
+    },
+    {
+      "land": "Italië",
+      "vlag": "🇮🇹",
+      "procentBbp": 137
+    },
+    {
+      "land": "VS",
+      "vlag": "🇺🇸",
+      "procentBbp": 124
+    },
+    {
+      "land": "Frankrijk",
+      "vlag": "🇫🇷",
+      "procentBbp": 116
+    },
+    {
+      "land": "Canada",
+      "vlag": "🇨🇦",
+      "procentBbp": 110
+    },
+    {
+      "land": "België",
+      "vlag": "🇧🇪",
+      "procentBbp": 105
+    },
+    {
+      "land": "VK",
+      "vlag": "🇬🇧",
+      "procentBbp": 101
+    },
+    {
+      "land": "Spanje",
+      "vlag": "🇪🇸",
+      "procentBbp": 101
+    },
+    {
+      "land": "China",
+      "vlag": "🇨🇳",
+      "procentBbp": 96
+    },
+    {
+      "land": "Hongarije",
+      "vlag": "🇭🇺",
+      "procentBbp": 74
+    },
+    {
+      "land": "Israël",
+      "vlag": "🇮🇱",
+      "procentBbp": 69
+    },
+    {
+      "land": "Duitsland",
+      "vlag": "🇩🇪",
+      "procentBbp": 64
+    },
+    {
+      "land": "Nederland",
+      "vlag": "🇳🇱",
+      "procentBbp": 44
+    },
+    {
+      "land": "Rusland",
+      "vlag": "🇷🇺",
+      "procentBbp": 20
+    }
+  ],
+  "theorieen": [
+    {
+      "bewering": "De oorlog met Iran is bewust uitgesteld tot na de Amerikaanse verkiezingen.",
+      "feiten": "Het Witte Huis zei letterlijk geen aanval vóór de midterms uit te voeren. Israëlische bronnen melden plannen voor daarna. Een politieke timing is dus niet geheim, maar of de aanvallen echt komen, is open.",
+      "oordeel": "DEELS"
+    },
+    {
+      "bewering": "Iran rekt de onderhandelingen om Trump te beschadigen vóór de midterms.",
+      "feiten": "Iraanse functionarissen zeiden dit tegen de Times of Israel. Andere Iraanse bronnen zeggen dat Iran zich voorbereidt op nieuwe aanvallen in plaats van op een deal.",
+      "oordeel": "DEELS"
+    },
+    {
+      "bewering": "Rusland plant ‘false flag’-aanvallen met buitgemaakte Oekraïense drones in de Baltische staten.",
+      "feiten": "Dit is een waarschuwing van de Litouwse inlichtingendienst; er is volgens Litouwen geen aanwijzing voor een acute aanval.",
+      "oordeel": "ONBEVESTIGD"
+    },
+    {
+      "bewering": "De hoge olieprijs is vooral gemaakt door speculanten.",
+      "feiten": "Er zijn harde aanbodverstoringen: de Straat van Hormuz draait op ±60%, er zijn aanvallen op tankers en op Saudische installaties. Speculatie versterkt bewegingen, maar is niet de hoofdoorzaak.",
+      "oordeel": "ONWAARSCHIJNLIJK"
+    },
+    {
+      "bewering": "Carney heeft de Verenigde Staten de oorlog verklaard.",
+      "feiten": "Een virale meme. Factcheckers: er is een handelsconflict met vergeldingstarieven, geen oorlogsverklaring.",
+      "oordeel": "ONWAAR"
+    },
+    {
+      "bewering": "Het stikstofbeleid is een verborgen plan om boerengrond te onteigenen.",
+      "feiten": "Er zijn vrijwillige uitkoopregelingen en gerechtelijke uitspraken (o.a. de Greenpeace-zaak, 2025) die de Staat tot reductie dwingen. Een geheim onteigeningsplan is nooit aangetoond.",
+      "oordeel": "ONWAAR"
+    },
+    {
+      "bewering": "Deepfakes en buitenlandse trollen beïnvloeden verkiezingen (Israël, VS).",
+      "feiten": "Het is een reëel en gedocumenteerd risico; ook het Bulletin noemt desinformatie als dreiging. De omvang van het effect op uitslagen is lastig te meten.",
+      "oordeel": "DEELS"
+    },
+    {
+      "bewering": "De Amerikaanse midterms worden op grote schaal vervalst.",
+      "feiten": "Bij eerdere verkiezingen vonden rechtbanken en audits geen grootschalige fraude. Let wel op claims achteraf en op betwistingen.",
+      "oordeel": "ONWAAR"
+    },
+    {
+      "bewering": "De ‘Great Reset’ is een plan van een wereldelite om de democratie af te schaffen.",
+      "feiten": "Het is een WEF-initiatief uit 2020 met beleidsideeën; er is geen bewijs van een geheim machtsplan.",
+      "oordeel": "ONWAAR"
+    },
+    {
+      "bewering": "Chemtrails worden gebruikt om het weer of de bevolking te beïnvloeden.",
+      "feiten": "Condensstrepen zijn waterdamp. Wel bestaat er onderzoek naar ‘solar geoengineering’, maar dat wordt niet op grote schaal toegepast.",
+      "oordeel": "ONWAAR"
+    }
+  ],
+  "klimaatfeiten": [
+    {
+      "titel": "Opwarming",
+      "waarde": "≈ +1,5 °C",
+      "uitleg": "De wereld zit rond 1,5 °C boven het pre-industriële niveau (2024 was het warmste jaar ooit gemeten, het eerste kalenderjaar boven 1,5 °C)."
+    },
+    {
+      "titel": "Oliecrisis",
+      "waarde": "Brent ≈ $110",
+      "uitleg": "De crisis rond Hormuz jaagt de energieprijzen op: korte termijn meer kolen en LNG, lange termijn een versnelling van zon, wind en kernenergie."
+    },
+    {
+      "titel": "COP31",
+      "waarde": "nov 2026",
+      "uitleg": "De klimaattop in Antalya (Turkije). Nederland gaf op 28 oktober een technische briefing aan de Kamer over zijn inzet."
+    }
+  ],
+  "stikstof": "Stikstof in Nederland: het kabinet-Jetten meldt dat de vergunningverlening weer op gang komt, wat belangrijk is voor woningbouw en infrastructuur. De rechter (Greenpeace-zaak, januari 2025) droeg de Staat op om in 2030 minstens de helft van de kwetsbare natuur onder de kritische depositiewaarde te brengen. Let op: nieuwe uitspraken van de Raad van State, de uitkoopregelingen voor veehouders, boerenprotesten en de Europese natuurherstelwet.",
+  "nederland": "Nederland: het minderheidskabinet-Jetten zoekt per onderwerp een meerderheid. Het AOW-plan en de ‘vrijheidsbijdrage’ zijn van tafel; de box 3-hervorming wordt aangepast. De defensiebegroting 2027 gaat omhoog en de Kamer besprak de Nederlandse rol rond de Straat van Hormuz. Het grootste migratiepakket in 25 jaar ligt in de Kamer. De staatsschuld (±44% bbp) is laag in Europees perspectief, maar de energieprijzen (TTF-gas) raken huishoudens direct.",
+  "europa": [
+    "Hongarije: Orbán verloor in april 2026; premier Magyar is pro-Oekraïne – het Hongaarse veto in de EU valt grotendeels weg.",
+    "Defensie: de Europese herbewapening versnelt; Rusland voert volgens de inlichtingendiensten een hybride oorlog (drones, sabotage).",
+    "Energie: Europa is kwetsbaar voor de crisis in de Golf (LNG uit Qatar gaat door Hormuz).",
+    "Handel: Amerikaanse tarieven drukken op de export; de EU zoekt andere markten."
+  ]
+}
