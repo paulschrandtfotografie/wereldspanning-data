@@ -1,8 +1,9 @@
 {
-  "uitleg": "Redactionele stand van de app Wereldspanning. Verhoog 'versie' bij elke wijziging. risico = 0..100, gewicht = belang voor de wereld (0.4..1.6), trend = OMHOOG/GELIJK/OMLAAG, voorspelbaarheid = 1..5, relaties: 2 bondgenoot .. -2 vijandig (9 = zichzelf), oordeel = BEVESTIGD/DEELS/ONBEVESTIGD/ONWAARSCHIJNLIJK/ONWAAR, ernst = 1..3.",
-  "versie": 2,
+  "uitleg": "Redactionele stand van de app Wereldspanning. Verhoog 'versie' bij elke wijziging. risico = 0..100, gewicht = belang voor de wereld (0.4..1.6), trend = OMHOOG/GELIJK/OMLAAG, voorspelbaarheid = 1..5, relaties: 2 bondgenoot .. -2 vijandig (9 = zichzelf), oordeel = BEVESTIGD/DEELS/ONBEVESTIGD/ONWAARSCHIJNLIJK/ONWAAR, ernst = 1..3. ijkIndex = onze index op het moment dat het Bulletin zijn stand (bulletinSeconden) zette; die twee vallen op de klok samen.",
+  "versie": 3,
   "peildatum": "27 oktober 2026",
   "bulletinSeconden": 85,
+  "ijkIndex": 58,
   "bulletinToelichting": "Op 27 januari 2026 zette het Bulletin of the Atomic Scientists de Doomsday Clock op 85 seconden voor middernacht (was 89). Dat is de dichtste stand ooit. Genoemde redenen: kernwapens, klimaat, biologische dreigingen, AI en desinformatie. De volgende stand wordt eind januari 2027 bekendgemaakt.",
   "brandhaarden": [
     {
